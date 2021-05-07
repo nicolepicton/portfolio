@@ -1,2 +1,2 @@
 # portfolio
-My Portfolio Website
+https://nicolepicton.github.io/portfolio/ My Portfolio Website
