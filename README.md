@@ -1,2 +1,3 @@
-# portfolio
-https://nicolepicton.github.io/portfolio/ My Portfolio Website
+Year One Portfolio Site
+========================
+[My Portfolio Website](https://nicolepicton.github.io/portfolio/)
